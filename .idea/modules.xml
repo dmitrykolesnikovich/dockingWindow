@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wweerr.iml" filepath="$PROJECT_DIR$/wweerr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dockingWindow.iml" filepath="$PROJECT_DIR$/dockingWindow.iml" />
     </modules>
   </component>
 </project>
